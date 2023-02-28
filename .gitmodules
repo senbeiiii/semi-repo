@@ -1,0 +1,3 @@
+[submodule "midorihon-python"]
+	path = midorihon-python
+	url = git@github.com:senbeiiii/midorihon-python.git
